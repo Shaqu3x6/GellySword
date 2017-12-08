@@ -1,0 +1,11 @@
+Gelly Sword is a mod thats allow you to make pretty good sword out off Gel.
+Probably in future I will add more items from Gel.
+
+
+
+Adds:
+-GellySword(100xGel , 2xWood)
+-Pink GellySword(20xPink Gel , 2xPlatinum Bar)
+
+ChangeLog 0.1.4
+-Added Pink GellySword
